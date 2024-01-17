@@ -1,7 +1,7 @@
 'use client'
 import { destinationT } from '@/app/destination/page'
 import NavbarSpace from '@/components/NavbarSpace'
-import { destinations, destinationsType } from '@/data'
+import { destinations } from '@/data'
 import Image from 'next/image'
 import React, { useState } from 'react'
 
